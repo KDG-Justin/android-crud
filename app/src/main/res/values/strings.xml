@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">mythology</string>
+    <string name="characters">Characters</string>
+    <string name="detail">Detail</string>
+    <string name="loading_failed">Failed to load</string>
+    <string name="loading">Loading</string>
+</resources>

@@ -1,0 +1,1 @@
+# A basic android project using Smite as an inspiration
